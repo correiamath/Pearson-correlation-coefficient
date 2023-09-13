@@ -49,7 +49,7 @@ O [código R](/Testes%201-10.R) fornecido neste repositório realiza as seguinte
 2. Importa os dados do arquivo 'db.xlsx' e limpa os nomes das colunas.
 3. Calcula a matriz de correlação entre as variáveis.
 4. Realiza testes de correlação e gera gráficos de dispersão para cada par de variáveis.
-5. Apresenta os resultados da análise de correlação em uma tabela.
+5. Apresenta os resultados da análise.
 
 A análise visa identificar a natureza e a força das relações entre as variáveis ESG e o ISE B3, contribuindo para um melhor entendimento do impacto das práticas de sustentabilidade empresarial no desempenho financeiro das empresas.
 
