@@ -2,7 +2,7 @@
  
 ## Analise da relação entre variáveis quantitativas (SCORE ISE-B³ e Indicadores Econômico-Financeiros) de empresas listadas na B³ por meio do coeficiente de correlação de Pearson.
 
-Este repositório contém o código e os resultados da análise realizada como parte do Trabalho de Conclusão de Curso (TCC) com o tema "Integração De Políticas ESG Nas Empresas Brasileiras Listadas Na B3: Uma Análise econômico-financeira Das Empresas Do Índice ISE B3 2022". O projeto envolveu a obtenção de dados de fontes diversas, como artigos científicos, livros, revistas virtuais e as plataformas ESG Workspace da B3 e Status Invest. O principal objetivo foi explorar as relações e similaridades entre o Índice de Sustentabilidade Empresarial (ISE) da B3 e os indicadores econômico-financeiros das empresas deste índice.
+Este repositório contém o código e os resultados da análise realizada como parte do artigo "Integração De Políticas ESG Nas Empresas Brasileiras Listadas Na B3: Uma Análise econômico-financeira Das Empresas Do Índice ISE B3 2022". O projeto envolveu a obtenção de dados de fontes diversas, como artigos científicos, livros, revistas virtuais e as plataformas ESG Workspace da B3 e Status Invest. O principal objetivo foi explorar as relações e similaridades entre o Índice de Sustentabilidade Empresarial (ISE) da B3 e os indicadores econômico-financeiros das empresas deste índice.
 
 ## Metodologia
 
