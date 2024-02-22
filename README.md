@@ -57,4 +57,4 @@ Para replicar ou estender esta análise, basta seguir as instruções e utilizar
 
 
 ### Referência:
-CORREIA, M. Integração De Políticas ESG Nas Empresas Brasileiras Listadas Na B3: Uma Análise econômico-financeira Das Empresas Do Índice ISE B3 2022. Universidade Estadual de Feira de Santana, dez 2022.
+Neto, João Augusto de Sousa, and Matheus Barros Correia. “Integração de Políticas ESG Nas Empresas Brasileiras Listadas Na B3: Uma Análise Econômico-Financeira Das Empresas Avaliadas No Índice ISE B3 2022.” Revista Controladoria E Gestão, vol. 5, no. 1, 11 Jan. 2024, pp. 1114–1136, ufs.emnuvens.com.br/rcg/article/view/20198. Accessed 22 Feb. 2024.
